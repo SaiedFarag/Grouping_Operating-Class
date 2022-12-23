@@ -1,0 +1,7 @@
+I can provide you with help with spatial domain data analysis and visualization projects/tasks like:
+	• Cleaning and processing raw data/tables/sheets.
+	• Filtering and extracting data in fresh tables to be ready for the next phases.
+	• Performing spatial analysis like (spatial join, network analysis, nearest neighbor, and other types of analysis) in order to make the data complete and accurate.
+	• Visualiz results of data analysis on web interactive maps using modern mapping technologies like (Folium, Leafmap, and KeplerGL).
+
+It will be good if we have a written brief about the project which contains all information (the type/size of data, needed processes, the main goals, and the requirements).
